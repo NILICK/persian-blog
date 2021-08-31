@@ -1,1 +1,1 @@
-Sitemap: https://nilick.github.io/persian-blog/sitemap.xml
+Sitemap: nilick.github.io/persian-blog/sitemap.xml
