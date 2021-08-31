@@ -1,11 +1,22 @@
 {
   
+    
+        "post0": {
+            "title": "Statistics",
+            "content": "مفهوم‌های اصلی آمار . در این مطلب به بررسی پنج مفهوم یا روش آماری می‌پردازیم که هر تحلیل‌گر داده باید از آن اطلاع داشته تا در کارش بتواند موثرتر از قبل باشد. شیوه محاسبه بعضی از این شاخص‌های آماری در مطلب مفاهیم آماری – شاخص‌های توصیفی قابل مشاهده است. .",
+            "url": "nilick.github.io/persian-blog/statistics/2021/08/31/statistics.html",
+            "relUrl": "/statistics/2021/08/31/statistics.html",
+            "date": " • Aug 31, 2021"
+        }
+        
+    
+  
 
   
   
 
   
-      "page1": {
+      ,"page1": {
           "title": "About Me",
           "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "nilick.github.io/persian-blog/about/",
